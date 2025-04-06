@@ -91,7 +91,7 @@ This creates a layered illusion of complexity while keeping the actual behavior 
 
 ## VirusTotal Comparison
 
-The power of obfuscation—visualized.
+The power of obfuscation—visualized. The sample used was the "Using Reflection" script found over at https://github.com/S3cur3Th1sSh1t/Amsi-Bypass-Powershell
 
 **Original Script (Unobfuscated AMSI Bypass)**  
 This sample was detected by numerous engines:
