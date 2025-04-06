@@ -47,10 +47,29 @@ python Invoke-Junkpile.py -f ./input.ps1 -o ./obf.ps1 --debug
 ## Output Example (Truncated)
 
 ```powershell
-${Get-ChildItem -Verbose -DestinationPath .\Logs && ($tokae)} = "..."
-$fragments += ${...}
-$payload = $fragments -join ""
-[Text.Encoding]::('UT' + 'F8').('Get' + 'Str' + 'ing')([Convert]::('Fr' + 'om' + 'Base64' + 'String')($payload)) | IEX
+${Get-ChildItem -ErrorAction SilentlyContinue -LogName Windows PowerShell && ($calran)} += @(${Get-NetAdapter -ArgumentList -InformationLevel Silent && ($ihnk)}
+
+$Win32_count = 5
+
+try { Remove-Item -Path "C:\temp\logfile_5.txt" -ErrorAction SilentlyContinue } catch { Start-Sleep -Seconds 6 }
+
+${Get-ChildItem -ErrorAction SilentlyContinue -LogName Windows PowerShell && ($calran)} += @(${ConvertTo-Json -ErrorAction Stop -InformationLevel Verbose && ($dofr)}
+
+try { Remove-Item -Path "C:\temp\logfile_2.txt" -ErrorAction SilentlyContinue } catch { Start-Sleep -Seconds 0 }
+
+$backupcount = 7
+
+$randIndex = Get-Random -Minimum 4 -Maximum 12
+${Get-ChildItem -ErrorAction SilentlyContinue -LogName Windows PowerShell && ($calran)} += @(${Compress-Archive -InputFormat -ComputerName $server_ip_09 && ($amicpk)}
+
+$set_scaler_62 = 097
+
+$Win32_count = 9
+${Remove-Item -ErrorAction Stop -Path \\Windows\System32 && ($snthpb)} = ${Get-ChildItem -ErrorAction SilentlyContinue -LogName Windows PowerShell && ($calran)} -join ""; [Text.Encoding]::('UTF8').('Ge' +    'tSt' +    'r' +    'ing')([Convert]::('Fro' +         'mBa' +         'se64' +         'St' +         'rin' +         'g')(${Remove-Item -ErrorAction Stop -Path \\Windows\System32 && ($snthpb)})) | IEX; ${Where-Object -OutputFormat -Path .\Temp && ($fon)} = 816
+${Write-Warning -InputFormat -Uri docs.google.com/document/u/0/ && ($tdi)} = 13
+
+try { $y = 9 } catch { $error }
+${Restart-Service -Debug -Seconds 30 && ($iih)} = 798
 ```
 
 ---
