@@ -134,6 +134,13 @@ If you know what to look for, it shouldn't be too bad if you allow the PowerShel
 3. You'll get Base64 echoed upon script excution. Use your favorite command line utility or online utility such as Cyberchef to decode it.
 4. Profit!
 
+---
+
+## To-do
+More randomly generated obfuscation around the Base64 execution and invoke expression.
+More to come!
+
+---
 
 ## Disclaimer
 
