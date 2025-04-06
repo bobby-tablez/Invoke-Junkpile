@@ -94,12 +94,12 @@ This creates a layered illusion of complexity while keeping the actual behavior 
 The power of obfuscation—visualized. The sample used was the "Using Reflection" script found over at https://github.com/S3cur3Th1sSh1t/Amsi-Bypass-Powershell
 
 **Original Script (Unobfuscated AMSI Bypass)**  
-This sample was detected by numerous engines:
+This sample was detected by numerous engines: c65416981ba34fbb9638e263585a4ad908705126da79bb8fc353fea90a6824a9
 
 ![VirusTotal Detection - Original](assets/vt_1.png)
 
 **Invoke-Junkpile Obfuscated Script**  
-After running the same script through Invoke-Junkpile:  
+After running the same script through Invoke-Junkpile: 3b5602182826d17beeac8ebb204950f6fe4a85809c91e38bd5dff7e46e684167
 
 ![VirusTotal Detection - Obfuscated](assets/vt_2.png)
 
