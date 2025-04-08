@@ -6,6 +6,8 @@
 
 ## Overview
 
+  ![PyPI](https://img.shields.io/pypi/v/invoke-junkpile)
+
 **Invoke-Junkpile** is a Python-based tool that takes clean PowerShell scripts and transforms them into an entropic mess of stacked polymorphic variables, junk code, and obfuscated logic through randomization. The generated code is designed to be obfuscated while not appearing obfuscated. Designed for stealth, this tool aims to evade static detection signatures, confuse reverse engineers, and wreak havoc on basic string-matching defenses and entropy checks. In the end, it outputs fully functional, heavily obfuscated PowerShell code.
 
 This was tested on a wide range of PowerShell scripts which worked in 99% of cases (see limitations below). This includes very large and complex scripts and scripts containing assemblies. 
