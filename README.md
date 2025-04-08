@@ -14,13 +14,13 @@ This was tested on a wide range of PowerShell scripts which worked in 99% of cas
 
 ## Features
 
-- **Full Script Base64 Encoding**
-- **Obfuscated Chunking:** Script is split into chunks assigned to randomly named variables.
-- **Chunk Stacking:** Variable groups are randomly joined (2–7 chunks per assignment).
-- **Realistic Junk Variables:** Looks like legit PowerShell, using believable cmdlets and parameters.
-- **Dead Code Injection:** Includes random try/catch, loops and dummy assignments throughout.
-- **Random Execution Obfuscation:** Obfuscated reconstruction and execution of the final payload.
-- **Blend-In Obfuscation:** Random whitespace, variable names and syntax constructs enhance stealth.
+- **Base64 encoding:** done prior to obfuscation to preserve functionality.
+- **Obfuscated chunking:** Script is split into chunks assigned to randomly named variables.
+- **Chunk stacking:** Variable groups are randomly joined (2–7 chunks per assignment).
+- **Realistic junk variables:** Looks like legit PowerShell, using believable cmdlets and parameters.
+- **Dead code injection:** Includes random try/catch, loops and dummy assignments throughout.
+- **Random execution obfuscation:** Obfuscated reconstruction and execution of the final payload.
+- **Blend-in obfuscation:** Random whitespace, variable names and syntax constructs enhance stealth.
 
 ---
 
