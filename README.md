@@ -50,29 +50,28 @@ python Invoke-Junkpile.py -f ./input.ps1 -o ./obf.ps1 --debug
 ## Output Example (Truncated)
 
 ```powershell
-${Get-ChildItem -ErrorAction SilentlyContinue -LogName Windows PowerShell && ($calran)} += @(${Get-NetAdapter -ArgumentList -InformationLevel Silent && ($ihnk)}
+$test01 = 6
+${Read-Host -ArgumentList -Path \\Backups && ($gstknk)} = "ZSgk";${Compress-Archive -InputFormat -ComputerName $server_ip_09 && ($amicpk)} = "0LCRu";
 
-$Win32_count = 5
+for ($i = 0; $i -lt 9; $i++) { $nextvar = $i }
 
-try { Remove-Item -Path "C:\temp\logfile_5.txt" -ErrorAction SilentlyContinue } catch { Start-Sleep -Seconds 6 }
+$Win32_count = 4
 
-${Get-ChildItem -ErrorAction SilentlyContinue -LogName Windows PowerShell && ($calran)} += @(${ConvertTo-Json -ErrorAction Stop -InformationLevel Verbose && ($dofr)}
+$randIndex = Get-Random -Minimum 2 -Maximum 17
+${Expand-Archive -Force -Uri office365.com/?auth=1 && ($kiings)} = "sKSA=";
 
-try { Remove-Item -Path "C:\temp\logfile_2.txt" -ErrorAction SilentlyContinue } catch { Start-Sleep -Seconds 0 }
+while ($null) { $run = 9; Start-Sleep -Seconds 6 }
 
-$backupcount = 7
+$backupcount = 6
+try { $void = Get-Random -Minimum 7 -Maximum 11 } catch { $void = $null }
 
-$randIndex = Get-Random -Minimum 4 -Maximum 12
-${Get-ChildItem -ErrorAction SilentlyContinue -LogName Windows PowerShell && ($calran)} += @(${Compress-Archive -InputFormat -ComputerName $server_ip_09 && ($amicpk)}
 
-$set_scaler_62 = 097
+${Get-ChildItem -ErrorAction SilentlyContinue -LogName Windows PowerShell && ($calran)} = @()
+${Get-ChildItem -ErrorAction SilentlyContinue -LogName Windows PowerShell && ($calran)} += @(${Remove-Item -ErrorAction SilentlyContinue -ComputerName $dc_08 && ($eknrb)}, ${Invoke-WebRequest -OutputFormat -LogName Setup && ($egbe)}, ${Write-Output -Force -Name CcmExec && ($bsle)}, ${Write-Host -InputFormat -LogName Application && ($npnpfb)}, ${Restart-Service -Debug -Seconds 10 && ($enfmh)}, ${Read-Host -Debug -Seconds 14 && ($fclclb)}, ${Import-Module -ErrorAction SilentlyContinue -Name powershell && ($gblslr)})
 
-$Win32_count = 9
-${Remove-Item -ErrorAction Stop -Path \\Windows\System32 && ($snthpb)} = ${Get-ChildItem -ErrorAction SilentlyContinue -LogName Windows PowerShell && ($calran)} -join ""; [Text.Encoding]::('UTF8').('Ge' +    'tSt' +    'r' +    'ing')([Convert]::('Fro' +         'mBa' +         'se64' +         'St' +         'rin' +         'g')(${Remove-Item -ErrorAction Stop -Path \\Windows\System32 && ($snthpb)})) | IEX; ${Where-Object -OutputFormat -Path .\Temp && ($fon)} = 816
-${Write-Warning -InputFormat -Uri docs.google.com/document/u/0/ && ($tdi)} = 13
+$randIndex = Get-Random -Minimum 0 -Maximum 11
 
-try { $y = 9 } catch { $error }
-${Restart-Service -Debug -Seconds 30 && ($iih)} = 798
+for ($j = 0; $j -lt 0; $j++) { $final += $j }
 ```
 
 ---
